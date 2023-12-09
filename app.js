@@ -14,7 +14,7 @@ for(let button of btnEl){
                 inptEl.value = eval(inptEl.value);
             }
             catch(err){
-                inptEl.value = 'Madarchod'
+                inptEl.value = 'OOPS!!'
             }
         }
         else{
